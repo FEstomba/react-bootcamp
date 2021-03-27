@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
-import Temperatura from './components/Temperatura'
+import Formulario from './components/Formulario';
+import TFormulario from './components/Formulario'
 
 
 function App() {
   return (
     <div className="App mt-5">
       <h1>Titulo de nuestro primer proyecto </h1>
-      <Temperatura></Temperatura>
+      <Formulario></Formulario>
     </div>
   );
 }
