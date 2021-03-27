@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Formulario from './components/Formulario';
-import TFormulario from './components/Formulario'
+
 
 
 function App() {
